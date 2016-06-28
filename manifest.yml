@@ -1,0 +1,3 @@
+name: bil-cf-ex-symfony
+env:
+    SYMFONY_ENV: prod
